@@ -1,2 +1,2 @@
 # BERT
-my implementation of BERT
+my implementation of the BERT large language model
